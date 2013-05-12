@@ -627,8 +627,4 @@
     <string name="dtmf_tone_enable_title" msgid="827601042915852989">"Звук клавиш"</string>
     <string name="preference_category_ringtone" msgid="5197960752529332721">"Рингтон и вибросигнал"</string>
 
-    <!-- Noise suppression -->
-    <string name="noise_suppression_title">Шумоподавление</string>
-    <string name="noise_suppression_summary">Включить шумоподавление в телефонных разговорах</string>
-
 </resources>
