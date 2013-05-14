@@ -169,7 +169,7 @@
     <string name="preferred_network_mode_evdo_only_summary" msgid="8472220691721269155">"Upřednostňovaný režim sítě: pouze EvDo"</string>
     <string name="preferred_network_mode_lte_cdma_summary" msgid="3722647806454528426">"Upřednostňovaný režim sítě: LTE / CDMA"</string>
   <string-array name="preferred_network_mode_choices">
-    <item msgid="5543794538185064048">"LTE/CDMA"</item>
+    <item msgid="5543794538185064048">"Všechny"</item>
     <item msgid="3273348576277144124">"Pouze EvDo"</item>
     <item msgid="454610224530856274">"CDMA bez EvDo"</item>
     <item msgid="648505122852496166">"CDMA/EvDo – automaticky"</item>
@@ -180,7 +180,7 @@
   </string-array>
   <string-array name="preferred_network_mode_choices_lte">
     <item msgid="7002474529872452266">"LTE/CDMA"</item>
-    <item msgid="5541716989029928208">"CDMA"</item>
+    <item msgid="5541716989029928208">"CDMA/EvDo - automaticky"</item>
   </string-array>
     <string name="data_enabled" msgid="5972538663568715366">"Dat. přenosy aktivovány"</string>
     <string name="data_enable_summary" msgid="5022018967714633874">"Aktivovat datový přístup prostřednictvím mobilní sítě"</string>
