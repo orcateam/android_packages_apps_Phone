@@ -627,4 +627,9 @@
     <string name="vibrate_on_ring_title" msgid="9197564612065258960">"Vibrar al sonar"</string>
     <string name="dtmf_tone_enable_title" msgid="827601042915852989">"Sonar al marcar número"</string>
     <string name="preference_category_ringtone" msgid="5197960752529332721">"Tono y vibración"</string>
+ <string name="vibration_title">Vibración</string>
+    <string name="exit_to_home_screen_title">Volver a la Última Actividad al finalizar la llamada</string>
+    <string name="exit_to_home_screen_summary">Volver a la pantalla de la actividad anterior al finalizar la llamada en lugar de ir al registro de llamadas</string>
+    <string name="landscape_mode_title">Habilitar Modo Horizontal</string>
+    <string name="landscape_mode_summary">Habilitar Modo Horizontal (Si el sensor está activado)</string>
 </resources>
